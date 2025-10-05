@@ -23,6 +23,16 @@ A fun **Mad Libs** program that asks the user for different types of words (like
 - String concatenation and formatting  
 - Basic understanding of variables and data types
 
+### 3. Shopping Cart Program
+A basic **Shopping Cart** program that lets the user enter the name of an item, its price, and the quantity they wish to buy.  
+The program then calculates and displays the total amount the user needs to pay.
+
+**Concepts used:**
+- Taking user input using `Scanner`  
+- Performing arithmetic calculations  
+- Working with variables of different data types  
+- Output formatting with `System.out.println()`
+
 
 ---
 
