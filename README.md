@@ -15,6 +15,15 @@ A simple Java program that calculates the **area of a rectangle** using user-pro
 - Basic arithmetic operations
 - Printing output to the console
 
+### 2. Mad Libs Game
+A fun **Mad Libs** program that asks the user for different types of words (like nouns, verbs, and adjectives) and then inserts them into a short story template to create a funny and random story.
+
+**Concepts used:**
+- Working with `Scanner` for user input  
+- String concatenation and formatting  
+- Basic understanding of variables and data types
+
+
 ---
 
 ## 🔗 Learning Resources
