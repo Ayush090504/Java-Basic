@@ -33,6 +33,18 @@ The program then calculates and displays the total amount the user needs to pay.
 - Working with variables of different data types  
 - Output formatting with `System.out.println()`
 
+### 4. Random Number Generator
+A simple **Random Number Generator** program that demonstrates how to use Java’s `Random` class to produce random values.
+
+**What it does:**
+- Generates a random integer between 1 and 6 (simulating a dice roll)  
+- Generates a random double between 0 and 1  
+- Simulates a coin toss using random boolean values  
+
+**Concepts used:**
+- Importing and using the `java.util.Random` class  
+- Working with different data types (`int`, `double`, `boolean`)  
+- Conditional statements (`if-else`)
 
 ---
 
