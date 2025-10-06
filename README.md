@@ -46,6 +46,19 @@ A simple **Random Number Generator** program that demonstrates how to use Java�
 - Working with different data types (`int`, `double`, `boolean`)  
 - Conditional statements (`if-else`)
 
+### 5. Pythagorean Theorem Calculator
+A simple **Pythagorean Theorem** program that calculates the length of the hypotenuse of a right-angled triangle based on user-provided side lengths.
+
+**What it does:**
+- Takes two side lengths (`a` and `b`) as input  
+- Calculates the hypotenuse using the formula `c = √(a² + b²)`  
+- Displays the result to the user  
+
+**Concepts used:**
+- Using the `Scanner` class for input  
+- Applying mathematical functions from the `Math` class (`sqrt()`, `pow()`)  
+- Working with floating-point numbers (`double`)
+
 ---
 
 ## 🔗 Learning Resources
