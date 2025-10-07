@@ -59,6 +59,19 @@ A simple **Pythagorean Theorem** program that calculates the length of the hypot
 - Applying mathematical functions from the `Math` class (`sqrt()`, `pow()`)  
 - Working with floating-point numbers (`double`)
 
+### 6. Formatted Output Program
+A simple Java program demonstrating how to use the **`printf`** statement for formatted output.
+
+**What it does:**
+- Takes some input values (such as numbers or text)
+- Displays them in a clean, structured format using `System.out.printf()`
+- Shows how formatting specifiers (like `%d`, `%f`, `%s`) control how data is printed
+
+**Concepts used:**
+- String formatting with `printf`
+- Understanding format specifiers and precision control
+- Output customization for better readability
+
 ---
 
 ## 🔗 Learning Resources
