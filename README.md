@@ -72,6 +72,21 @@ A simple Java program demonstrating how to use the **`printf`** statement for fo
 - Understanding format specifiers and precision control
 - Output customization for better readability
 
+
+### 7. Compound Interest Calculator
+A simple **Compound Interest Calculator** program that computes the total amount and interest earned over a given period.
+
+**What it does:**
+- Takes user input for principal amount, annual interest rate, and time period  
+- Calculates compound interest using the formula:  
+  `A = P * (1 + r/n)^(n*t)`  
+- Displays the calculated amount and interest in a readable format
+
+**Concepts used:**
+- Mathematical operations with `Math.pow()`  
+- Using `Scanner` for user input  
+- Variable handling and output formatting
+
 ---
 
 ## 🔗 Learning Resources
